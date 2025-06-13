@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express":"latest",
-    "ejs":"latest"
+    "ejs":"latest",
+    "axios": "latest",
+    "env-cmd": "latest"
   }
 }
