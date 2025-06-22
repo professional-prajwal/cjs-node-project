@@ -10,9 +10,10 @@
   "author": "Adem Cemil YALCIN",
   "license": "ISC",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest",
     "axios": "latest",
-    "env-cmd": "latest"
+    "ejs": "latest",
+    "env-cmd": "latest",
+    "express": "latest",
+    "mysql2": "^3.14.1"
   }
 }
