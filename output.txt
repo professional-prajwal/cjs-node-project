@@ -1,10 +1,10 @@
 🔍 Resolving branch "develop"…
-getBranchSha: 486.498ms
-✅ Commit SHA: 79d76c9e5b03cdf62971f02881ec3334adb4e8c0
+getBranchSha: 538.692ms
+✅ Commit SHA: 8c6e2f4ce8e1865263fa163dfd2149890fe49522
 🌲 Fetching full tree…
-getRecursiveTree: 1.184s
-👉 Retrieved 32113 entries
-totalTime: 1.673s
+getRecursiveTree: 1.350s
+👉 Retrieved 32126 entries
+totalTime: 1.891s
 
 📁 Files under "tests/" on "develop":
   tests/README.md
@@ -1403,6 +1403,7 @@ totalTime: 1.673s
   tests/e2e-tests/test/test-data/version-control/private-key.pem
   tests/e2e-tests/util/mocking-layer-new.js
   tests/e2e-tests/util/mocking-layer.js
+  tests/e2e-tests/util/non-proxied-tests-list.json
   tests/e2e-tests/util/util.js
   tests/e2e-tests/workflows/api/api-creation-flows.js
   tests/e2e-tests/workflows/auth/auth.flows.js

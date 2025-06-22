@@ -1,0 +1,5 @@
+🔍 Fetching immediate directories in "tests/e2e-tests/test/specs/" on branch "develop"...
+totalTime: 1.085s
+
+📁 Top 1 subdirectories under "tests/e2e-tests/test/specs/" containing "infra" on "develop":
+  test-infrastructure
